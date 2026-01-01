@@ -171,7 +171,15 @@ The objective of this project is to convert **unstructured text data** (customer
 
 ## 🔄 NLP Pipeline Summary
 
-
+Raw Text
+→ Text Cleaning
+→ Tokenization
+→ Stopwords Removal
+→ Stemming
+→ Feature Extraction
+→ Model Training
+→ Prediction
+→ Evaluation
 ---
 
 ## 🌍 Real-World Applications
